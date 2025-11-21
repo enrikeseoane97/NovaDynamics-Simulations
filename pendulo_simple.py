@@ -4,7 +4,7 @@ import cupy as np
 import time # Para medir el tiempo de aceleración
 
 # --- 1. CONFIGURACIÓN INICIAL DE LA ESCENA ---
-scene.caption = "Simulación de Péndulo Simple (Nova Dynamics) - Acelerado por CUDA"
+scene.caption = "Simulación de Péndulo Simple (SEONOVA) - Acelerado por CUDA"
 scene.autoscale = True
 scene.range = 2.0
 
@@ -61,4 +61,5 @@ while t < 20.0: # Simular durante 20 segundos
     t = t + dt
 
 end_time = time.time()
+
 print("Simulación completada. Tiempo de CPU/GPU:", end_time - start_time, "segundos")
