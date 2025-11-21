@@ -1,6 +1,6 @@
-# 🛰️ Nova Dynamics - Simulaciones Científicas Avanzadas
+# 🛰️ SEONOVA - Simulaciones Científicas Avanzadas
 
-Bienvenidos al repositorio oficial de **Nova Dynamics**, una iniciativa enfocada en el desarrollo de **simulaciones físicas y algoritmos predictivos** utilizando Python.
+Bienvenidos al repositorio oficial de **SEONOVA**, una iniciativa enfocada en el desarrollo de **simulaciones físicas y algoritmos predictivos** utilizando Python.
 
 Nuestro objetivo es explorar la dinámica del mundo real a través de modelos matemáticos y la visualización de datos de alta fidelidad.
 
